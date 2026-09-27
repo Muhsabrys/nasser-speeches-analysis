@@ -1,0 +1,571 @@
+{
+  "metadata": {
+    "title": "خطب وتصريحات البكباشي جمال عبد الناصر في ربيع 1953 (الجماهير، صعيد مصر، الرد على اللورد كيلرن، وحق تقرير المصير للسودان)",
+    "date": "1953-03-27 / 1953-04-05 / 1953-04-09",
+    "location": "القاهرة / أسيوط (صعيد مصر)",
+    "source": "ملف الوثائق التاريخية 3.txt"
+  },
+  "dynamic_tag_definitions": [
+    {
+      "tag_name": "islamic_rhetoric_reappropriation",
+      "definition": "The deliberate engagement with and appropriation of Islamic religious slogans (e.g., 'حكم القرآن', 'الجهاد', 'الله أكبر') to validate revolutionary policies and refute ideological challenges from political Islamist groups."
+    },
+    {
+      "tag_name": "metaphor_of_social_pathology",
+      "definition": "Conceptualizing pre-revolutionary social injustice, political corruption, and colonial subjugation as chronic, deeply embedded biological diseases or bodily afflictions requiring gradual treatment and systemic purgation."
+    },
+    {
+      "tag_name": "direct_address_to_adversary_public",
+      "definition": "Strategically bypassing the imperialist government and colonial diplomats to address the ordinary citizens of the colonial power directly, appealing to their moral standards, democratic values, and economic self-interest."
+    },
+    {
+      "tag_name": "tripartite_revolutionary_motto",
+      "definition": "The programmatic rhetorical invocation of the Liberation Rally's guiding triadic slogan: 'الاتحاد والنظام والعمل' (Unity, Discipline, Work) as the fundamental prerequisite for overcoming historical decline."
+    },
+    {
+      "tag_name": "sudan_self_determination_discourse",
+      "definition": "Framing Egypt's diplomatic concession of Sudanese self-determination (February 1953 agreement) as an ethical anti-colonial stance that dismantles British divide-and-rule leverage over the Nile Valley."
+    },
+    {
+      "tag_name": "depersonalization_of_imperialism",
+      "definition": "Distinguishing between reactionary colonial oligarchs/ambassadors (e.g., Lord Killearn) and the broader British populace, portraying imperialism as detrimental even to the metropolitan working classes."
+    }
+  ],
+  "discourse_units": [
+    {
+      "unit_id": "DU_19530327_01",
+      "text": "أيها المواطنون:\n\nالسلام عليكم ورحمة الله..\n\nهذه النفوس القوية والأرواح العالية والعواطف الجياشة التى نراها، أقول لكم - أيها الإخوان - إن عواطفنا نحوكم لا تقل عن عواطفكم نحونا، إن لم تكن تزد.",
+      "annotations": [
+        {
+          "tag": "ritual_greeting",
+          "span": "السلام عليكم ورحمة الله..",
+          "explanation": "Standard Islamic formal peace greeting initiating the public address."
+        },
+        {
+          "tag": "address_to_public",
+          "span": "أيها المواطنون... أيها الإخوان",
+          "explanation": "Interpellates the assembled crowd alternately as civic citizens ('مواطنون') and as fraternal brethren ('إخوان')."
+        },
+        {
+          "tag": "appeal_to_emotion",
+          "span": "هذه النفوس القوية والأرواح العالية والعواطف الجياشة التى نراها، أقول لكم - أيها الإخوان - إن عواطفنا نحوكم لا تقل عن عواطفكم نحونا، إن لم تكن تزد",
+          "explanation": "Establishes a powerful affective feedback loop between the revolutionary leader and the popular masses."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530327_02",
+      "text": "فلقد قامت ثورة الجيش فى ٢٣ يوليو سنة ١٩٥٢ وكان هدفها الأول القضاء على الاستبداد السياسى، والقضاء على الظلم الاجتماعى، والخلاص من الاحتلال البريطانى.",
+      "annotations": [
+        {
+          "tag": "military_legitimacy",
+          "span": "فلقد قامت ثورة الجيش فى ٢٣ يوليو سنة ١٩٥٢",
+          "explanation": "Validates the July 23rd movement as a decisive historical turning point undertaken by the armed forces."
+        },
+        {
+          "tag": "state_legitimacy_claim",
+          "span": "وكان هدفها الأول القضاء على الاستبداد السياسى، والقضاء على الظلم الاجتماعى، والخلاص من الاحتلال البريطانى",
+          "explanation": "Summarizes the foundational triad of revolutionary goals: political emancipation, social justice, and national liberation."
+        },
+        {
+          "tag": "repetition",
+          "span": "القضاء على الاستبداد السياسى، والقضاء على الظلم الاجتماعى",
+          "explanation": "Parallel syntactic phrasing reinforcing the eradication of domestic tyranny alongside external subjugation."
+        },
+        {
+          "tag": "anti_imperialism",
+          "span": "والخلاص من الاحتلال البريطانى",
+          "explanation": "Defines complete termination of British military presence as an essential pillar of revolutionary legitimacy."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530327_03",
+      "text": "أيها المواطنون:\n\nلقد جثمت على نفوسنا هذه المفاسد سنيناً طوالا، فنحن لازلنا فى أول الطريق للخلاص منها، فإذا كنتم تظنون أن هذه العلل قد انتهت فى سبعة أشهر تكونون واهمون؛ فإن هذه العلل التى تمكنت من نفوسنا وتمكنت من أجسامنا وتمكنت من وطننا عشرات من السنين لن يمكن الخلاص منها فى أشهر قليلة، ولكن نحتاج إلى عمل كثير ونحتاج إلى مجهود كبير حتى نتخلص منها.",
+      "annotations": [
+        {
+          "tag": "metaphor_of_social_pathology",
+          "span": "فإن هذه العلل التى تمكنت من نفوسنا وتمكنت من أجسامنا وتمكنت من وطننا عشرات من السنين لن يمكن الخلاص منها فى أشهر قليلة",
+          "explanation": "Diagnoses societal corruption and feudal degradation as deep-seated psychological and somatic diseases requiring extended recovery."
+        },
+        {
+          "tag": "contrast_structure",
+          "span": "عشرات من السنين لن يمكن الخلاص منها فى أشهر قليلة",
+          "explanation": "Contrasts decades of structural historical damage against the unrealistic expectation of instant transformation in seven months."
+        },
+        {
+          "tag": "appeal_to_reason",
+          "span": "فإذا كنتم تظنون أن هذه العلل قد انتهت فى سبعة أشهر تكونون واهمون",
+          "explanation": "Rationally tempers populist utopian impatience with sober sociological realism."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530327_04",
+      "text": "لقد كان فى مصر - يوم قامت الثورة - عشرين مليوناً من المظلومين، فهل تعتقدون أن هذا الظلم سينتهى فى سبعة أشهر؟ إن آثار عشرات السنين ستحتاج إلى مجهود كبير حتى نقضى عليها. إننا فى سبيل القضاء على الفساد السياسى، وإننا بدأنا فى القضاء على الظلم الاجتماعى، وأمامنا الآن العدو الأكبر، وهو الاحتلال البريطانى.",
+      "annotations": [
+        {
+          "tag": "victimhood_narrative",
+          "span": "لقد كان فى مصر - يوم قامت الثورة - عشرين مليوناً من المظلومين",
+          "explanation": "Frames the entire population of Egypt prior to the revolution as universally disenfranchised and oppressed."
+        },
+        {
+          "tag": "problem_definition",
+          "span": "وأمامنا الآن العدو الأكبر، وهو الاحتلال البريطانى",
+          "explanation": "Hierarchizes revolutionary targets, designating the British occupation as the ultimate primary contradiction."
+        },
+        {
+          "tag": "socialism",
+          "span": "بدأنا فى القضاء على الظلم الاجتماعى",
+          "explanation": "Emphasizes structural socioeconomic reform (e.g., Agrarian Reform Law of September 1952) as underway."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530327_05",
+      "text": "أيها الإخوان:\n\nأنا معكم إن الجهاد سبيلنا، وحتى نستطيع أن نجاهد يجب أن نجاهد أنفسنا أولاً، يجب أن نقوم أنفسنا أولاً، فإذا ما قومنا نفوسنا استطعنا أن نقاوم عدونا.",
+      "annotations": [
+        {
+          "tag": "islamic_rhetoric_reappropriation",
+          "span": "أنا معكم إن الجهاد سبيلنا، وحتى نستطيع أن نجاهد يجب أن نجاهد أنفسنا أولاً",
+          "explanation": "Evokes the Islamic concept of the 'greater jihad' (inner moral reform/self-rectification) as a prerequisite for outward national resistance."
+        },
+        {
+          "tag": "moral_authority_claim",
+          "span": "يجب أن نقوم أنفسنا أولاً، فإذا ما قومنا نفوسنا استطعنا أن نقاوم عدونا",
+          "explanation": "Predicates geopolitical liberation upon prior ethical, spiritual, and civic self-correction."
+        },
+        {
+          "tag": "repetition",
+          "span": "نجاهد... نجاهد أنفسنا... نقوم أنفسنا... قومنا نفوسنا... نقاوم عدونا",
+          "explanation": "Morphological wordplay on roots J-H-D and Q-W-M creating an escalating crescendo of civic and military readiness."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530327_06",
+      "text": "أيها الإخوان:\n\nلقد قال قائدنا: إن أمامنا عمل شاق، فلابد من تحرير مصر ولابد من جلاء قوات الاحتلال؛ وهذا لن يتأتى إلا إذا اتبعنا شعار حركتنا الذى يتلخص فى ثلاث كلمات؛ الاتحاد.. فإذا اتحدنا تقوينا فالاتحاد قوة، والنظام والعمل. بالاتحاد والنظام والعمل سنستطيع أن نعبر الطريق فإن الطريق طويل، ولا تتوهموا أننا قد انتصرنا؛ فإن أمامنا من المصاعب الكثير، وإن أمامكم أنتم من المصاعب الكثير، فيجب أن تتجهوا إلى المستقبل، ويجب أن تصبروا فإذا ما صبرتم استطعتم أن تحققوا الآمال، فإننا لن نتمكن وحدنا من أن نحقق أهداف البلاد، ولكن على كل فرد من أبناء مصر واجب نحو وطنه مصر؛ هذا الواجب يستدعى منه أن ينظر أمامه وأن يتفقد الظروف وأن يصبر حتى نتخلص من المفاسد التى حاقت ببلادنا.",
+      "annotations": [
+        {
+          "tag": "tripartite_revolutionary_motto",
+          "span": "شعار حركتنا الذى يتلخص فى ثلاث كلمات؛ الاتحاد.. فإذا اتحدنا تقوينا فالاتحاد قوة، والنظام والعمل. بالاتحاد والنظام والعمل سنستطيع أن نعبر الطريق",
+          "explanation": "Directly promulgates the iconic revolutionary trinity: 'Union, Discipline, Work' as an operational formula for survival."
+        },
+        {
+          "tag": "civic_empowerment_discourse",
+          "span": "فإننا لن نتمكن وحدنا من أن نحقق أهداف البلاد، ولكن على كل فرد من أبناء مصر واجب نحو وطنه مصر",
+          "explanation": "Repudiates elite messianism, insisting that government cannot succeed without individual civic participation and patience."
+        },
+        {
+          "tag": "future_vision",
+          "span": "فيجب أن تتجهوا إلى المستقبل، ويجب أن تصبروا فإذا ما صبرتم استطعتم أن تحققوا الآمال",
+          "explanation": "Directs mass consciousness away from past grievances toward future constructive labor and perseverance."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530327_07",
+      "text": "أيها المواطنون:\n\nإننى أقول لكم: يجب أن نتفهم ما نقول، ولا نكون كالببغاء تقول ما لا تفهم.. الله أكبر ولا حكم إلا بالقرآن.. إننى معكم أيها الإخوان، فانظروا إلى حركتنا وماذا حققت، لقد قامت حركة الجيش فقضت على الفساد، فهل هذا يتنافى مع تعاليم القرآن؟.. لقد قامت حركة الجيش للقضاء على الظلم الاجتماعى فى البلاد، فهل هذا يتنافى مع حكم القرآن؟",
+      "annotations": [
+        {
+          "tag": "islamic_rhetoric_reappropriation",
+          "span": "الله أكبر ولا حكم إلا بالقرآن.. إننى معكم أيها الإخوان، فانظروا إلى حركتنا وماذا حققت، لقد قامت حركة الجيش فقضت على الفساد، فهل هذا يتنافى مع تعاليم القرآن؟.. لقد قامت حركة الجيش للقضاء على الظلم الاجتماعى فى البلاد، فهل هذا يتنافى مع حكم القرآن؟",
+          "explanation": "Directly confronts Muslim Brotherhood slogans chanted by the crowd ('الله أكبر ولا حكم إلا بالقرآن'), co-opting their theological terminology to demonstrate that the Free Officers' deeds incarnate true Quranic justice."
+        },
+        {
+          "tag": "metaphor",
+          "span": "ولا نكون كالببغاء تقول ما لا تفهم",
+          "explanation": "Uses the pejorative parrot metaphor to critique thoughtless, reactionary chanting without political comprehension."
+        },
+        {
+          "tag": "appeal_to_reason",
+          "span": "فهل هذا يتنافى مع تعاليم القرآن؟.. فهل هذا يتنافى مع حكم القرآن؟",
+          "explanation": "Uses rhetorical interrogatives to force listeners to rationally evaluate the substantive Islamic merit of social reforms."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530327_08",
+      "text": "أيها الإخوان:\n\nإننا نحقق ما ينادى به القرآن وإننا نحقق ما ينادى به الله، فإننا نحقق مطالب البشر، ولكننا - أيها الإخوان - نسعى إلى هدفنا ونحقق غايتنا بدون إسراع وبدون عدم تبصر، ونحقق غايتنا حتى نصل إلى ما تصبو إليه البلاد.\n\nأيها الإخوان:\n\nيجب أت تفهموا ما تقولون وتتبصروا ما به تتفوهون.",
+      "annotations": [
+        {
+          "tag": "moral_authority_claim",
+          "span": "إننا نحقق ما ينادى به القرآن وإننا نحقق ما ينادى به الله، فإننا نحقق مطالب البشر",
+          "explanation": "Claims transcendent religious and universal humanist legitimacy for the revolutionary program."
+        },
+        {
+          "tag": "bureaucratic_rationality",
+          "span": "نسعى إلى هدفنا ونحقق غايتنا بدون إسراع وبدون عدم تبصر",
+          "explanation": "Advocates calculated, deliberate pragmatism against hot-headed ideological zealotry or premature adventurism."
+        },
+        {
+          "tag": "call_to_action",
+          "span": "يجب أت تفهموا ما تقولون وتتبصروا ما به تتفوهون",
+          "explanation": "Demands critical political consciousness and intellectual maturity from the public before voicing dogmatic slogans."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530327_09",
+      "text": "أيها الإخوان:\n\nلقد خلق الله العالم فى ستة أيام وقد مضى على هذه الحركة ستة أشهر، فانظروا وتبصروا ماذا حل بالبلاد فى هذه الأشهر الست، وانظروا إلى المستقبل، وقبل أن تنادوا بالمطالب العظام انظروا إلى الطريق الشاق الذى يواجه أبناء الوطن أجمعين.\n\nإننا بالاتحاد والتآلف وبأذرعكم القوية ونفوسكم القوية نستطيع أن نحقق للبلاد كل أمانيها، ونستطيع أن نحقق ما قال به قائدنا: يجب تحرير مصر ويجب القضاء على قوات الاحتلال.\n\nوالسلام عليكم ورحمة الله.",
+      "annotations": [
+        {
+          "tag": "mythopoesis",
+          "span": "لقد خلق الله العالم فى ستة أيام وقد مضى على هذه الحركة ستة أشهر",
+          "explanation": "Draws an allegorical comparison to divine creation in Genesis/Quran to frame social re-creation as a phased process."
+        },
+        {
+          "tag": "unity_call",
+          "span": "إننا بالاتحاد والتآلف وبأذرعكم القوية ونفوسكم القوية نستطيع أن نحقق للبلاد كل أمانيها",
+          "explanation": "Reiterates national harmony and physical labor as the twin engines of Egyptian emancipation."
+        },
+        {
+          "tag": "anti_colonial",
+          "span": "يجب تحرير مصر ويجب القضاء على قوات الاحتلال",
+          "explanation": "Reasserts the primary strategic objective of expelling British forces from Egyptian territory."
+        },
+        {
+          "tag": "ritual_greeting",
+          "span": "والسلام عليكم ورحمة الله",
+          "explanation": "Traditional Islamic closing benediction."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530327_10",
+      "text": "أيها المواطنون:\n\nباسم الرئيس القائد أتحدث إليكم: لله هذه الجموع التى تتماوج فرحاً وغبطة، وإننى أمام ما طوقتم به عنقى من إكرام وترحيب لأتوجه إلى الله العلى القدير بالشكر والحمد على أن هيأ لى فرصة أتحدث فيها إليكم.\n\nإن الأمانة التى أُلقيت على عاتقنا خطيرة وعظيمة، فهى الأمانة التى... وإن ما يواجهنا من جهود ضخمة ومسئوليات كبرى ليبدو فى نظرى الآن هيناً يسيراً بعد أن رأيت ذلك الشعور الغامر المتدفق، المتدفق وطنية وحماسة؛ مما أشعرنى حقاً أن الآمال الكبار التى تجيش فى صدرى إنما هى صدى كريم لما تشعرون به، وإن الأعباء التى نحملها إن هى إلا التزامات فرضتها وطنيتكم وبطولتكم، ولمصر العليا فى التاريخ منزلة مرموقة ومكانة سامية.",
+      "annotations": [
+        {
+          "tag": "ceremonial_language",
+          "span": "باسم الرئيس القائد أتحدث إليكم",
+          "explanation": "Formal performance of protocol, asserting legitimate representation on behalf of President Muhammad Naguib."
+        },
+        {
+          "tag": "appeal_to_emotion",
+          "span": "لله هذه الجموع التى تتماوج فرحاً وغبطة... ذلك الشعور الغامر المتدفق، المتدفق وطنية وحماسة",
+          "explanation": "Celebrates the emotional resonance of the Upper Egyptian crowd, deriving personal stamina from mass enthusiasm."
+        },
+        {
+          "tag": "collective_identity",
+          "span": "إن الآمال الكبار التى تجيش فى صدرى إنما هى صدى كريم لما تشعرون به",
+          "explanation": "Constructs complete psychological convergence between the revolutionary ruler and the governed populace."
+        },
+        {
+          "tag": "historical_reference",
+          "span": "ولمصر العليا فى التاريخ منزلة مرموقة ومكانة سامية",
+          "explanation": "Honors Upper Egypt (al-Sa'id) for its historical prestige and stalwart contribution to Egyptian heritage."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530327_11",
+      "text": "أيها المواطنون:\n\nإننا مقبلون على فترة حاسمة فى تاريخ مصر الحديث، وإن العالم كله لينظر الآن إلينا وقد استرددنا ثقته بنا فى ثورتنا المقدسة التى تولتها العناية الإلهية فأقصت عنها الغادرين، ومكنتها من أن تحقق فى خطواتها الرشيدة سيادة هذا الشعب العظيم.",
+      "annotations": [
+        {
+          "tag": "crisis_framing",
+          "span": "إننا مقبلون على فترة حاسمة فى تاريخ مصر الحديث",
+          "explanation": "Highlights the gravity of the historical crossroads facing modern Egypt."
+        },
+        {
+          "tag": "mythopoesis",
+          "span": "ثورتنا المقدسة التى تولتها العناية الإلهية فأقصت عنها الغادرين",
+          "explanation": "Endows the 1952 Revolution with sacred providential protection, attributing its bloodless success to divine favor."
+        },
+        {
+          "tag": "sovereignty_claim",
+          "span": "مكنتها من أن تحقق فى خطواتها الرشيدة سيادة هذا الشعب العظيم",
+          "explanation": "Positions the revolution as the rightful restorer of popular sovereignty to the Egyptian people."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530327_12",
+      "text": "أيها المواطنون:\n\nلقد انبعثت ثورتنا من قلوب ضاقت ذرعاً بمن كانوا يتولون أمر هذا الشعب، يستنزفون دمه ويستسخرون جهوده لتحقيق شهواتهم ونزواتهم، ومن فوقهم ملك مستهتر متهالك على مفاتن الدنيا ومتاعها، ومن حوله بطانة سوء تسول له ما يشاء، مُلقية فى روعه أنه لا يُسأل عما يفعل.\n\nمن هنا كانت ثورتنا غضبة لله وصدى للشعور الشعبى المكبوت، فزال الملك وزال الفساد وزال الإقطاع وزالت الأحزاب، وجلس الشعب يضع دستوره لنفسه، وتفتحت القلوب حتى كانت هيئة التحرير فعبئت القوى الشعبية فى نطاق شعاره الاتحاد والنظام والعمل.",
+      "annotations": [
+        {
+          "tag": "enemy_construction",
+          "span": "ملك مستهتر متهالك على مفاتن الدنيا ومتاعها، ومن حوله بطانة سوء تسول له ما يشاء، مُلقية فى روعه أنه لا يُسأل عما يفعل",
+          "explanation": "Denounces the deposed King Farouk and the royal entourage as morally bankrupt, self-indulgent, and despotic."
+        },
+        {
+          "tag": "moral_authority_claim",
+          "span": "من هنا كانت ثورتنا غضبة لله وصدى للشعور الشعبى المكبوت",
+          "explanation": "Frames the coup d'état as righteous divine wrath aligned with suppressed popular outrage."
+        },
+        {
+          "tag": "repetition",
+          "span": "فزال الملك وزال الفساد وزال الإقطاع وزالت الأحزاب",
+          "explanation": "Uses dramatic polysyndeton and repetitive cadence ('زال') to narrate the systematic liquidation of the ancien régime."
+        },
+        {
+          "tag": "tripartite_revolutionary_motto",
+          "span": "كانت هيئة التحرير فعبئت القوى الشعبية فى نطاق شعاره الاتحاد والنظام والعمل",
+          "explanation": "Identifies the Liberation Rally as the institutional vanguard unifying mass popular forces under the motto of Union, Discipline, Work."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530327_13",
+      "text": "أيها المواطنون:\n\nإن هذه الثورة وقد رفعت رأسها لن تحنيها من جديد، وإن بقاء الاحتلال ووجود الثورة أمر شاذ لا يقره عرف الثورة ولا منطقها القوى الفاصل.",
+      "annotations": [
+        {
+          "tag": "contrast_structure",
+          "span": "وإن بقاء الاحتلال ووجود الثورة أمر شاذ لا يقره عرف الثورة ولا منطقها القوى الفاصل",
+          "explanation": "Diagnoses an intolerable systemic contradiction: an authentic national revolution and a foreign military occupation cannot coexist."
+        },
+        {
+          "tag": "heroic_self_portrayal",
+          "span": "إن هذه الثورة وقد رفعت رأسها لن تحنيها من جديد",
+          "explanation": "Asserts unyielding revolutionary defiance and an absolute refusal to submit to imperial pressure."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530327_14",
+      "text": "أيها المواطنون:\n\nمنذ أن ألقى العبء علينا ونحن نكافح لتقويض دعامات الاستعمار، ففى الجنوب انتهت المعركة بتقرير المصير، أما هنا فى الشمال فإننا لن نباهى - كما كانوا يقولون - بالمفاوضة، وإنما نحن نقول قولة واحدة: أخرجوا من بلادنا.",
+      "annotations": [
+        {
+          "tag": "sudan_self_determination_discourse",
+          "span": "ففى الجنوب انتهت المعركة بتقرير المصير",
+          "explanation": "References the settlement of the Anglo-Egyptian Sudan issue through the self-determination accord, neutralizing a major British negotiation lever."
+        },
+        {
+          "tag": "contrast_structure",
+          "span": "لن نباهى - كما كانوا يقولون - بالمفاوضة، وإنما نحن نقول قولة واحدة: أخرجوا من بلادنا",
+          "explanation": "Contrasts the futile diplomatic bragging of pre-1952 party cabinets with the direct, uncompromising revolutionary ultimatum: 'Get out of our country'."
+        },
+        {
+          "tag": "call_to_action",
+          "span": "أخرجوا من بلادنا",
+          "explanation": "A direct imperative demand of unconditional evacuation addressed to the British empire."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530327_15",
+      "text": "أيها المواطنون:\n\nلن يدافع عن القنال إلا أبناء النيل ولن نرضى عن أنفسنا إلا إذا رحل عن أرضنا الطيبة آخر جندى أجنبى.\n\nأيها المواطنون:\n\nإنما نحن نقول قولة واحدة: أخرجوا من بلادنا، لن يدافع عن القنال إلا أبناء النيل، ولن نرضى عن أنفسنا إلا إذا رحل عن أرضنا الطيبة أخر جندى أجنبى، فنحن لن نساوم فى حق وطننا، ولن نرضى عن حريتنا بديلاً.",
+      "annotations": [
+        {
+          "tag": "security_discourse",
+          "span": "لن يدافع عن القنال إلا أبناء النيل",
+          "explanation": "Monopolizes the security and defense mandate of the Suez Canal strictly for Egyptian forces ('the sons of the Nile')."
+        },
+        {
+          "tag": "sovereignty_claim",
+          "span": "إلا إذا رحل عن أرضنا الطيبة آخر جندى أجنبى",
+          "explanation": "Reiterates the core prerequisite for sovereignty: the complete physical exit of every single foreign soldier."
+        },
+        {
+          "tag": "repetition",
+          "span": "أخرجوا من بلادنا، لن يدافع عن القنال إلا أبناء النيل، ولن نرضى عن أنفسنا إلا إذا رحل عن أرضنا الطيبة أخر جندى أجنبى",
+          "explanation": "Immediate verbatim reiteration for rhetorical emphasis and acoustic finality before the Upper Egyptian crowd."
+        },
+        {
+          "tag": "heroic_self_portrayal",
+          "span": "فنحن لن نساوم فى حق وطننا، ولن نرضى عن حريتنا بديلاً",
+          "explanation": "Firm commitment to an uncompromising stance on national independence and political sovereignty."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530405_01",
+      "text": "يتزعم \"اللورد كيلرن\" - السفير البريطانى الأسبق - حملة ضد مصر، قوامها تلك العناصر الرجعية التى لا تؤمن إلا باستعباد الشعوب، وهو أمر يدعو إلى الأسف البالغ. يخطئ من يظن أن \"اللورد كيلرن\" وجماعته قد انغمسوا فى هذه الحملة الطائشة بدافع من الإشفاق على مصالح الشعب البريطانى، فالحقيقة الواضحة بذاتها أن هذه الجماعة لا تعادى شعباً دون آخر، وإنما هى تعادى الشعوب جميعاً بما فيها الشعب البريطانى ذاته.",
+      "annotations": [
+        {
+          "tag": "depersonalization_of_imperialism",
+          "span": "هذه الجماعة لا تعادى شعباً دون آخر، وإنما هى تعادى الشعوب جميعاً بما فيها الشعب البريطانى ذاته",
+          "explanation": "Decouples British reactionary elites from the British public, arguing that high imperialism is inherently hostile to all working peoples."
+        },
+        {
+          "tag": "enemy_construction",
+          "span": "يتزعم \"اللورد كيلرن\" - السفير البريطانى الأسبق - حملة ضد مصر، قوامها تلك العناصر الرجعية التى لا تؤمن إلا باستعباد الشعوب",
+          "explanation": "Attacks Sir Miles Lampson (Lord Killearn, author of the 4 February 1942 Abdin Palace ultimatum) as the symbol of archaic colonial reaction."
+        },
+        {
+          "tag": "colonial_critique",
+          "span": "العناصر الرجعية التى لا تؤمن إلا باستعباد الشعوب",
+          "explanation": "Ideologically critiques classic colonialists as dogmatically committed to global subjugation."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530405_02",
+      "text": "يريد أمثال \"اللورد كيلرن\" تضليل الشعب البريطانى حتى يستهين بالحركات الوطنية المتأججة فى مصر والسودان، بل وفى جميع أنحاء الشرق الأوسط. إننا نعرف تماماً وعن وعى وإدراك كيف نفرق بين غلاة الاستعماريين وأصحاب الامتيازات والسلطات والمصالح الذاتية من البريطانيين، وبين الشعب البريطانى الذى نراه يئن تحت أثقال تلك السياسة الاستعمارية، وما تجره عليه من تكاليف وعدوان وخسائر.",
+      "annotations": [
+        {
+          "tag": "contrast_structure",
+          "span": "نفرق بين غلاة الاستعماريين وأصحاب الامتيازات والسلطات والمصالح الذاتية من البريطانيين، وبين الشعب البريطانى الذى نراه يئن تحت أثقال تلك السياسة الاستعمارية",
+          "explanation": "Systematically contrasts privileged colonial beneficiaries with the British working taxpayer burdened by imperial militarism."
+        },
+        {
+          "tag": "solidarity_claim",
+          "span": "وبين الشعب البريطانى الذى نراه يئن تحت أثقال تلك السياسة الاستعمارية، وما تجره عليه من تكاليف وعدوان وخسائر",
+          "explanation": "Expresses empathetic cross-national solidarity with the domestic burdens of the metropolitan population."
+        },
+        {
+          "tag": "regional_leadership_claim",
+          "span": "الحركات الوطنية المتأججة فى مصر والسودان، بل وفى جميع أنحاء الشرق الأوسط",
+          "explanation": "Locates the Egyptian struggle at the vanguard of an unstoppable, broader Middle Eastern anti-imperialist wave."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530405_03",
+      "text": "إن \"اللورد كيلرن\" طراز عتيق لا ينسجم مطلقاً مع روح العصر الحاضر؛ الذى أضحت فيه المساواة بين الشعوب مبدأً مقرراً لا سبيل إلى إنكاره، أو حتى مجرد المناقشة فيه. إنه يمثل تلك الآراء التى كانت تقوم على أسس الفتح والغزو والاستغلال، واستخدام القوة فى فرض السيطرة على الشعوب.\n\nومع ذلك فـ\"اللورد كيلرن\" رجل صريح، ولكن صراحته من النوع الذى يسىء إلى مواطنيه بالذات؛ إذ تنسب إليهم أهدافاً ذاتية ومطامع استعمارية حرص السياسيون والمسئولون من البريطانيين على إخفائها أو إنكارها، وما ذلك إلا لأنه مازال متأثراً بآراء ونظريات فى العلاقات الدولية تعود إلى القرن التاسع عشر، بل ما قبله بكثير.",
+      "annotations": [
+        {
+          "tag": "progress_narrative",
+          "span": "طراز عتيق لا ينسجم مطلقاً مع روح العصر الحاضر؛ الذى أضحت فيه المساواة بين الشعوب مبدأً مقرراً لا سبيل إلى إنكاره",
+          "explanation": "Appeals to historical progress and the zeitgeist of the post-WWII era where human and sovereign equality have become absolute norms."
+        },
+        {
+          "tag": "colonial_critique",
+          "span": "يمثل تلك الآراء التى كانت تقوم على أسس الفتح والغزو والاستغلال، واستخدام القوة فى فرض السيطرة على الشعوب",
+          "explanation": "Condemns Killearn as an anachronistic relic of gunboat diplomacy, conquest, and 19th-century imperialist predation."
+        },
+        {
+          "tag": "contrast_structure",
+          "span": "صراحته من النوع الذى يسىء إلى مواطنيه بالذات؛ إذ تنسب إليهم أهدافاً ذاتية ومطامع استعمارية حرص السياسيون والمسئولون من البريطانيين على إخفائها أو إنكارها",
+          "explanation": "Contrasts official British diplomatic obfuscation with Killearn's blunt, self-incriminating imperialist confessions."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530405_04",
+      "text": "إنه يقول: \"لقد شرعت قبضتنا على الشرق الأوسط تتراخى\"، ثم حين يعرض لاتفاقية السودان يقول بلسان أحد أنصاره: \"إن الحكم الذاتى لشعب أمى (يقصد الشعب السودانى) عبث\"؛ ومعنى هذا أن إنجلترا فى سياستها إزاء الشرق الأوسط عامة ومصر خاصة؛ إنما تستهدف السيطرة المجردة، ولا تريد أن تتضاءل هذه السيطرة بأى حال من الأحوال.\n\nأما وصفه للسودان بأنه يضم شعباً أمياً فإنه فى الحقيقة ينطوى على اتهام صريح للإدارة البريطانية بالسودان خلال فترة أكثر من نصف قرن، فضلاً عن أن الرجل يناقض الساسة البريطانيين المسئولين حين كانوا يرددون دائماً أن هدفهم هو تمكين السودان من الحكم الذاتى، وبهذا أثبت أن ما رددوه فى هذا الصدد لا يمثل الحقيقة والواقع.\n\nولكننا لا نعجب لهذه الحملة على اتفاقية السودان؛ ذلك أنها وليدة الشعور بالغضب؛ إذ سلبت أمثال \"اللورد\" مظاهر ومغانم الحكم والسيطرة فى السودان.",
+      "annotations": [
+        {
+          "tag": "appeal_to_reason",
+          "span": "أما وصفه للسودان بأنه يضم شعباً أمياً فإنه فى الحقيقة ينطوى على اتهام صريح للإدارة البريطانية بالسودان خلال فترة أكثر من نصف قرن",
+          "explanation": "Employs an ironclad logical trap: if Sudanese are illiterate after 50 years of British rule, it stands as an indictment of the colonial administration itself."
+        },
+        {
+          "tag": "sudan_self_determination_discourse",
+          "span": "ولكننا لا نعجب لهذه الحملة على اتفاقية السودان؛ ذلك أنها وليدة الشعور بالغضب؛ إذ سلبت أمثال \"اللورد\" مظاهر ومغانم الحكم والسيطرة فى السودان",
+          "explanation": "Explains imperial rage against the Anglo-Egyptian Sudan agreement as grief over lost colonial privileges and hegemony."
+        },
+        {
+          "tag": "colonial_critique",
+          "span": "إنما تستهدف السيطرة المجردة، ولا تريد أن تتضاءل هذه السيطرة بأى حال من الأحوال",
+          "explanation": "Exposes Britain's Middle Eastern grand strategy as naked, unapologetic coercion seeking pure dominance."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530405_05",
+      "text": "ويتابع \"اللورد كيلرن\" حملته على مصر فيقول فى مقال آخر له: \"إننا نطارد بسرعة فائقة من مكان إلى آخر، من عبدان ومن قناة السويس ومن السودان\".\n\nوهنا لا يسعنى إلا أن أشفق على الرجل ومنطقه، فما يسميه مطاردة إن هو فى الحقيقة إلا انتصار الحركات القومية فى هذه المنطقة من العالم؛ ذلك أن أهلها لم يعودوا يطيقون أن يفرض عليهم سلطان خارجى. فإذا كان الإنجليز يطاردون من إيران ومصر والسودان، فإن الذنب واقع عليهم؛ ذلك أن سياستهم لم تعرف كيف تدرك الروح الجديدة فى هذه البلدان.\n\nوهذه السياسة التى يتغنى بها \"اللورد كيلرن\" وأمثاله؛ إنما تسير على خط يتعارض تماماً مع المصالح الحيوية والحقيقية للشعب البريطانى، ولست بحاجة إلى أن أضرب المثل؛ ذلك أن الأزمة الإيرانية قد كبدت بريطانيا الكثير من الخسائر المالية والمعنوية، ولو أن هذه السياسة كانت أكثر استنارة؛ لعرفت كيف توفق بين مصالح إيران العادلة ومصالح بريطانيا المعقولة.",
+      "annotations": [
+        {
+          "tag": "historical_reference",
+          "span": "من عبدان ومن قناة السويس ومن السودان... ذلك أن الأزمة الإيرانية قد كبدت بريطانيا الكثير من الخسائر المالية والمعنوية",
+          "explanation": "References the contemporary Iranian oil nationalization crisis under Mosaddegh in Abadan alongside Suez and Sudan."
+        },
+        {
+          "tag": "progress_narrative",
+          "span": "فما يسميه مطاردة إن هو فى الحقيقة إلا انتصار الحركات القومية فى هذه المنطقة من العالم؛ ذلك أن أهلها لم يعودوا يطيقون أن يفرض عليهم سلطان خارجى",
+          "explanation": "Reframes colonial retreat not as victimhood, but as the triumphant forward march of sovereign Third World nationalisms."
+        },
+        {
+          "tag": "appeal_to_reason",
+          "span": "لو أن هذه السياسة كانت أكثر استنارة؛ لعرفت كيف توفق بين مصالح إيران العادلة ومصالح بريطانيا المعقولة",
+          "explanation": "Argues for enlightened diplomatic compromise and mutual self-interest over imperialist bullying and embargoes."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530405_06",
+      "text": "يحذر \"كيلرن\" الشعب البريطانى من محمد نجيب وجمال عبد الناصر، ويدَّعى أننا نضمر الشر لبريطانيا! فليعلم أن المصريين جميعاً - ونحن قادة حركة الثورة من بينهم - لا نضمر شراً مطلقاً- كما يزعم \"كيلرن\"- لا لبريطانيا ولا للشعب البريطانى، ولا لغيره من الشعوب، ولكنا على العكس من ذلك قوم سئمنا ضروب الشر التى قاسينا مرارتها وآثامها، لقد هب الشعب المصرى ونحن معه للقضاء على الشر وإحلال الخير محله.",
+      "annotations": [
+        {
+          "tag": "heroic_self_portrayal",
+          "span": "المصريين جميعاً - ونحن قادة حركة الثورة من بينهم - لا نضمر شراً مطلقاً- كما يزعم \"كيلرن\"- لا لبريطانيا ولا للشعب البريطانى",
+          "explanation": "Refutes colonial smear campaigns, establishing the revolutionary leadership as ethically upright, benevolent, and free of malice."
+        },
+        {
+          "tag": "contrast_structure",
+          "span": "سئمنا ضروب الشر التى قاسينا مرارتها وآثامها، لقد هب الشعب المصرى ونحن معه للقضاء على الشر وإحلال الخير محله",
+          "explanation": "Contrasts the historical wickedness endured under occupation with the moral impulse of the revolution to install goodness and justice."
+        },
+        {
+          "tag": "army_people_symbiosis",
+          "span": "لقد هب الشعب المصرى ونحن معه",
+          "explanation": "Positions the military officers shoulder-to-shoulder alongside the uprising of the Egyptian citizenry."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530405_07",
+      "text": "إنى أود أن أوجه الخطاب إلى الشعب البريطانى نفسه، لا لأضلله - كما يفعل أمثال \"اللورد كيلرن\" - وإنما لأنى فقط أبغى الكشف عن الحقائق؛ حتى يكون على بينة من أمرها، فأتساءل: هل يقبل الشعب البريطانى - لو كان مكاننا - احتلال وطنه ضد إرادته؟ وهل كان يقتنع بأية حجة - أياً كان مظهرها - تفرض عليه دوام احتلال أجنبى لو أنهم تعرضوا له مدى سبعين عاماً، فقدمت إليهم خلالها الوعود تلو الوعود بالجلاء والانسحاب من أرض الوطن؟ ما من شك أن أى شعب ليرفض مثل هذا الأمر، حرصاً على حقه المقدس فى الحرية الكاملة.\n\nلقد تحملت بريطانيا الكثير للدفاع عن حريتها خلال الحروب الماضية، ولن تكون أقل استعداداً للبذل والتضحية؛ بل لعل طاقتنا على ذلك أكبر بعد الذى عانيناه من استعباد دام أكثر من سبعين عاماً.",
+      "annotations": [
+        {
+          "tag": "direct_address_to_adversary_public",
+          "span": "إنى أود أن أوجه الخطاب إلى الشعب البريطانى نفسه، لا لأضلله - كما يفعل أمثال \"اللورد كيلرن\" - وإنما لأنى فقط أبغى الكشف عن الحقائق",
+          "explanation": "Direct diplomatic address over the heads of the British government directly to the moral consciousness of the British electorate."
+        },
+        {
+          "tag": "appeal_to_reason",
+          "span": "هل يقبل الشعب البريطانى - لو كان مكاننا - احتلال وطنه ضد إرادته؟ وهل كان يقتنع بأية حجة - أياً كان مظهرها - تفرض عليه دوام احتلال أجنبى",
+          "explanation": "Utilizes universal golden-rule moral reciprocity: asking the British if they would ever accept foreign occupation of Britain."
+        },
+        {
+          "tag": "historical_reference",
+          "span": "لقد تحملت بريطانيا الكثير للدفاع عن حريتها خلال الحروب الماضية",
+          "explanation": "Cites Britain's heroic resistance to Nazi Germany in WWII to validate Egypt's identical right to defend its sovereign freedom."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530405_08",
+      "text": "إننا حريصون كل الحرص على الوصول إلى تسوية سلمية، ولكننا فى نفس الوقت نصر إصراراً أكيداً على حقوقنا المستمدة من حق الشعوب الطبيعى فى الحرية والاستقلال، والمستندة إلى ميثاق الأمم المتحدة، فإذا ما تبددت آمالنا، فإننا لن نتردد - كأى شعب يشعر بكرامته وحقه المقدس فى الحرية والاستقلال - فى أن نسلك أى طريق يوصلنا إلى الحصول على حقوقنا؛ مهما كانت التضحيات التى نتحملها؛ لنفوز بالحرية، ولنخلف لأبنائنا من بعدنا أغلى ما يتمتع بلد به؛ الاستقلال والحرية.\n\nإنى أقولها كلمة قصيرة ولكنها صريحة، وفى هذا ما أنا إلا اللسان الذى يعبر عما فى نفوس المصريين جميعاً من أهداف لن يتحولوا عنها أياً كانت الأحوال والاعتبارات: يجب أن تجلو القوات الأجنبية من أراضينا جلاءً كاملاً، وبدون أى قيد أو شرط، فإذا ما أصبحت سيادتنا كاملة وحريتنا تامة؛ فإن مصر فى هذه الحالة ستعرف كيف تتصرف لدفع أى عدوان يهدد سلامتها.",
+      "annotations": [
+        {
+          "tag": "legal_authority_reference",
+          "span": "حقوقنا المستمدة من حق الشعوب الطبيعى فى الحرية والاستقلال، والمستندة إلى ميثاق الأمم المتحدة",
+          "explanation": "Grounds Egypt's diplomatic and armed demands firmly in the United Nations Charter and natural law."
+        },
+        {
+          "tag": "peace_framing",
+          "span": "حريصون كل الحرص على الوصول إلى تسوية سلمية",
+          "explanation": "Maintains preference for a negotiated diplomatic settlement before turning to armed confrontation."
+        },
+        {
+          "tag": "sovereignty_claim",
+          "span": "يجب أن تجلو القوات الأجنبية من أراضينا جلاءً كاملاً، وبدون أى قيد أو شرط",
+          "explanation": "Uncompromising assertion of complete, unconditional military evacuation as the non-negotiable bottom line."
+        },
+        {
+          "tag": "heroic_self_portrayal",
+          "span": "وفى هذا ما أنا إلا اللسان الذى يعبر عما فى نفوس المصريين جميعاً",
+          "explanation": "Subsumes personal leadership into the collective will of the nation, acting merely as the mouthpiece of 20 million Egyptians."
+        },
+        {
+          "tag": "security_discourse",
+          "span": "فإن مصر فى هذه الحالة ستعرف كيف تتصرف لدفع أى عدوان يهدد سلامتها",
+          "explanation": "Affirms that a fully sovereign Egypt possesses both the capability and the strategic prerogative to defend itself against aggression."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530409_01",
+      "text": "يسعدنى أن نكون بينكم، فعواطفكم نحونا تربط الشمال بالجنوب، وقد أردنا أن نتحد سوياً، فقالوا: إن السودان يريد تقرير مصيره، وكان ردنا عليهم أننا نترك للسودان حق تقرير المصير، فإنه واصل إلى حريته.",
+      "annotations": [
+        {
+          "tag": "unity_call",
+          "span": "عواطفكم نحونا تربط الشمال بالجنوب، وقد أردنا أن نتحد سوياً",
+          "explanation": "Affirms deep geographic and historical bonds of fraternal unity between Northern Egypt and Southern/Upper Egypt and the Sudan."
+        },
+        {
+          "tag": "sudan_self_determination_discourse",
+          "span": "فقالوا: إن السودان يريد تقرير مصيره، وكان ردنا عليهم أننا نترك للسودان حق تقرير المصير، فإنه واصل إلى حريته",
+          "explanation": "Defends the revolutionary policy of conceding self-determination to the Sudanese people, viewing their liberty as paramount."
+        },
+        {
+          "tag": "anti_colonial",
+          "span": "فإنه واصل إلى حريته",
+          "explanation": "Affirms the deterministic triumph of anti-colonial liberation for the brotherly people of Sudan."
+        }
+      ]
+    }
+  ],
+  "full_speech_text": "1953-03-27\t\"أيها المواطنون:\n\nالسلام عليكم ورحمة الله..\n\nهذه النفوس القوية والأرواح العالية والعواطف الجياشة التى نراها، أقول لكم - أيها الإخوان - إن عواطفنا نحوكم لا تقل عن عواطفكم نحونا، إن لم تكن تزد.\n\nفلقد قامت ثورة الجيش فى ٢٣ يوليو سنة ١٩٥٢ وكان هدفها الأول القضاء على الاستبداد السياسى، والقضاء على الظلم الاجتماعى، والخلاص من الاحتلال البريطانى.\n\nأيها المواطنون:\n\nلقد جثمت على نفوسنا هذه المفاسد سنيناً طوالا، فنحن لازلنا فى أول الطريق للخلاص منها، فإذا كنتم تظنون أن هذه العلل قد انتهت فى سبعة أشهر تكونون واهمون؛ فإن هذه العلل التى تمكنت من نفوسنا وتمكنت من أجسامنا وتمكنت من وطننا عشرات من السنين لن يمكن الخلاص منها فى أشهر قليلة، ولكن نحتاج إلى عمل كثير ونحتاج إلى مجهود كبير حتى نتخلص منها.\n\nلقد كان فى مصر - يوم قامت الثورة - عشرين مليوناً من المظلومين، فهل تعتقدون أن هذا الظلم سينتهى فى سبعة أشهر؟ إن آثار عشرات السنين ستحتاج إلى مجهود كبير حتى نقضى عليها. إننا فى سبيل القضاء على الفساد السياسى، وإننا بدأنا فى القضاء على الظلم الاجتماعى، وأمامنا الآن العدو الأكبر، وهو الاحتلال البريطانى.\n\nأيها الإخوان:\n\nأنا معكم إن الجهاد سبيلنا، وحتى نستطيع أن نجاهد يجب أن نجاهد أنفسنا أولاً، يجب أن نقوم أنفسنا أولاً، فإذا ما قومنا نفوسنا استطعنا أن نقاوم عدونا.\n\nأيها الإخوان:\n\nلقد قال قائدنا: إن أمامنا عمل شاق، فلابد من تحرير مصر ولابد من جلاء قوات الاحتلال؛ وهذا لن يتأتى إلا إذا اتبعنا شعار حركتنا الذى يتلخص فى ثلاث كلمات؛ الاتحاد.. فإذا اتحدنا تقوينا فالاتحاد قوة، والنظام والعمل. بالاتحاد والنظام والعمل سنستطيع أن نعبر الطريق فإن الطريق طويل، ولا تتوهموا أننا قد انتصرنا؛ فإن أمامنا من المصاعب الكثير، وإن أمامكم أنتم من المصاعب الكثير، فيجب أن تتجهوا إلى المستقبل، ويجب أن تصبروا فإذا ما صبرتم استطعتم أن تحققوا الآمال، فإننا لن نتمكن وحدنا من أن نحقق أهداف البلاد، ولكن على كل فرد من أبناء مصر واجب نحو وطنه مصر؛ هذا الواجب يستدعى منه أن ينظر أمامه وأن يتفقد الظروف وأن يصبر حتى نتخلص من المفاسد التى حاقت ببلادنا.\n\nأيها المواطنون:\n\nإننى أقول لكم: يجب أن نتفهم ما نقول، ولا نكون كالببغاء تقول ما لا تفهم.. الله أكبر ولا حكم إلا بالقرآن.. إننى معكم أيها الإخوان، فانظروا إلى حركتنا وماذا حققت، لقد قامت حركة الجيش فقضت على الفساد، فهل هذا يتنافى مع تعاليم القرآن؟.. لقد قامت حركة الجيش للقضاء على الظلم الاجتماعى فى البلاد، فهل هذا يتنافى مع حكم القرآن؟\n\nأيها الإخوان:\n\nإننا نحقق ما ينادى به القرآن وإننا نحقق ما ينادى به الله، فإننا نحقق مطالب البشر، ولكننا - أيها الإخوان - نسعى إلى هدفنا ونحقق غايتنا بدون إسراع وبدون عدم تبصر، ونحقق غايتنا حتى نصل إلى ما تصبو إليه البلاد.\n\nأيها الإخوان:\n\nيجب أت تفهموا ما تقولون وتتبصروا ما به تتفوهون.\n\nأيها الإخوان:\n\nلقد خلق الله العالم فى ستة أيام وقد مضى على هذه الحركة ستة أشهر، فانظروا وتبصروا ماذا حل بالبلاد فى هذه الأشهر الست، وانظروا إلى المستقبل، وقبل أن تنادوا بالمطالب العظام انظروا إلى الطريق الشاق الذى يواجه أبناء الوطن أجمعين.\n\nإننا بالاتحاد والتآلف وبأذرعكم القوية ونفوسكم القوية نستطيع أن نحقق للبلاد كل أمانيها، ونستطيع أن نحقق ما قال به قائدنا: يجب تحرير مصر ويجب القضاء على قوات الاحتلال.\n\nوالسلام عليكم ورحمة الله.\"\n1953-03-27\t\"أيها المواطنون:\n\nباسم الرئيس القائد أتحدث إليكم: لله هذه الجموع التى تتماوج فرحاً وغبطة، وإننى أمام ما طوقتم به عنقى من إكرام وترحيب لأتوجه إلى الله العلى القدير بالشكر والحمد على أن هيأ لى فرصة أتحدث فيها إليكم.\n\nإن الأمانة التى أُلقيت على عاتقنا خطيرة وعظيمة، فهى الأمانة التى... وإن ما يواجهنا من جهود ضخمة ومسئوليات كبرى ليبدو فى نظرى الآن هيناً يسيراً بعد أن رأيت ذلك الشعور الغامر المتدفق، المتدفق وطنية وحماسة؛ مما أشعرنى حقاً أن الآمال الكبار التى تجيش فى صدرى إنما هى صدى كريم لما تشعرون به، وإن الأعباء التى نحملها إن هى إلا التزامات فرضتها وطنيتكم وبطولتكم، ولمصر العليا فى التاريخ منزلة مرموقة ومكانة سامية.\n\nأيها المواطنون:\n\nإننا مقبلون على فترة حاسمة فى تاريخ مصر الحديث، وإن العالم كله لينظر الآن إلينا وقد استرددنا ثقته بنا فى ثورتنا المقدسة التى تولتها العناية الإلهية فأقصت عنها الغادرين، ومكنتها من أن تحقق فى خطواتها الرشيدة سيادة هذا الشعب العظيم.\n\nأيها المواطنون:\n\nلقد انبعثت ثورتنا من قلوب ضاقت ذرعاً بمن كانوا يتولون أمر هذا الشعب، يستنزفون دمه ويستسخرون جهوده لتحقيق شهواتهم ونزواتهم، ومن فوقهم ملك مستهتر متهالك على مفاتن الدنيا ومتاعها، ومن حوله بطانة سوء تسول له ما يشاء، مُلقية فى روعه أنه لا يُسأل عما يفعل.\n\nمن هنا كانت ثورتنا غضبة لله وصدى للشعور الشعبى المكبوت، فزال الملك وزال الفساد وزال الإقطاع وزالت الأحزاب، وجلس الشعب يضع دستوره لنفسه، وتفتحت القلوب حتى كانت هيئة التحرير فعبئت القوى الشعبية فى نطاق شعاره الاتحاد والنظام والعمل.\n\nأيها المواطنون:\n\nإن هذه الثورة وقد رفعت رأسها لن تحنيها من جديد، وإن بقاء الاحتلال ووجود الثورة أمر شاذ لا يقره عرف الثورة ولا منطقها القوى الفاصل.\n\nأيها المواطنون:\n\nمنذ أن ألقى العبء علينا ونحن نكافح لتقويض دعامات الاستعمار، ففى الجنوب انتهت المعركة بتقرير المصير، أما هنا فى الشمال فإننا لن نباهى - كما كانوا يقولون - بالمفاوضة، وإنما نحن نقول قولة واحدة: أخرجوا من بلادنا.\n\nأيها المواطنون:\n\nلن يدافع عن القنال إلا أبناء النيل ولن نرضى عن أنفسنا إلا إذا رحل عن أرضنا الطيبة آخر جندى أجنبى.\n\nأيها المواطنون:\n\nإنما نحن نقول قولة واحدة: أخرجوا من بلادنا، لن يدافع عن القنال إلا أبناء النيل، ولن نرضى عن أنفسنا إلا إذا رحل عن أرضنا الطيبة أخر جندى أجنبى، فنحن لن نساوم فى حق وطننا، ولن نرضى عن حريتنا بديلاً.\"\n1953-04-05\t\"يتزعم \"\"اللورد كيلرن\"\" - السفير البريطانى الأسبق - حملة ضد مصر، قوامها تلك العناصر الرجعية التى لا تؤمن إلا باستعباد الشعوب، وهو أمر يدعو إلى الأسف البالغ. يخطئ من يظن أن \"\"اللورد كيلرن\"\" وجماعته قد انغمسوا فى هذه الحملة الطائشة بدافع من الإشفاق على مصالح الشعب البريطانى، فالحقيقة الواضحة بذاتها أن هذه الجماعة لا تعادى شعباً دون آخر، وإنما هى تعادى الشعوب جميعاً بما فيها الشعب البريطانى ذاته.\n\nيريد أمثال \"\"اللورد كيلرن\"\" تضليل الشعب البريطانى حتى يستهين بالحركات الوطنية المتأججة فى مصر والسودان، بل وفى جميع أنحاء الشرق الأوسط. إننا نعرف تماماً وعن وعى وإدراك كيف نفرق بين غلاة الاستعماريين وأصحاب الامتيازات والسلطات والمصالح الذاتية من البريطانيين، وبين الشعب البريطانى الذى نراه يئن تحت أثقال تلك السياسة الاستعمارية، وما تجره عليه من تكاليف وعدوان وخسائر.\n\nإن \"\"اللورد كيلرن\"\" طراز عتيق لا ينسجم مطلقاً مع روح العصر الحاضر؛ الذى أضحت فيه المساواة بين الشعوب مبدأً مقرراً لا سبيل إلى إنكاره، أو حتى مجرد المناقشة فيه. إنه يمثل تلك الآراء التى كانت تقوم على أسس الفتح والغزو والاستغلال، واستخدام القوة فى فرض السيطرة على الشعوب.\n\nومع ذلك فـ\"\"اللورد كيلرن\"\" رجل صريح، ولكن صراحته من النوع الذى يسىء إلى مواطنيه بالذات؛ إذ تنسب إليهم أهدافاً ذاتية ومطامع استعمارية حرص السياسيون والمسئولون من البريطانيين على إخفائها أو إنكارها، وما ذلك إلا لأنه مازال متأثراً بآراء ونظريات فى العلاقات الدولية تعود إلى القرن التاسع عشر، بل ما قبله بكثير.\n\nإنه يقول: \"\"لقد شرعت قبضتنا على الشرق الأوسط تتراخى\"\"، ثم حين يعرض لاتفاقية السودان يقول بلسان أحد أنصاره: \"\"إن الحكم الذاتى لشعب أمى (يقصد الشعب السودانى) عبث\"\"؛ ومعنى هذا أن إنجلترا فى سياستها إزاء الشرق الأوسط عامة ومصر خاصة؛ إنما تستهدف السيطرة المجردة، ولا تريد أن تتضاءل هذه السيطرة بأى حال من الأحوال.\n\nأما وصفه للسودان بأنه يضم شعباً أمياً فإنه فى الحقيقة ينطوى على اتهام صريح للإدارة البريطانية بالسودان خلال فترة أكثر من نصف قرن، فضلاً عن أن الرجل يناقض الساسة البريطانيين المسئولين حين كانوا يرددون دائماً أن هدفهم هو تمكين السودان من الحكم الذاتى، وبهذا أثبت أن ما رددوه فى هذا الصدد لا يمثل الحقيقة والواقع.\n\nولكننا لا نعجب لهذه الحملة على اتفاقية السودان؛ ذلك أنها وليدة الشعور بالغضب؛ إذ سلبت أمثال \"\"اللورد\"\" مظاهر ومغانم الحكم والسيطرة فى السودان.\n\nويتابع \"\"اللورد كيلرن\"\" حملته على مصر فيقول فى مقال آخر له: \"\"إننا نطارد بسرعة فائقة من مكان إلى آخر، من عبدان ومن قناة السويس ومن السودان\"\".\n\nوهنا لا يسعنى إلا أن أشفق على الرجل ومنطقه، فما يسميه مطاردة إن هو فى الحقيقة إلا انتصار الحركات القومية فى هذه المنطقة من العالم؛ ذلك أن أهلها لم يعودوا يطيقون أن يفرض عليهم سلطان خارجى. فإذا كان الإنجليز يطاردون من إيران ومصر والسودان، فإن الذنب واقع عليهم؛ ذلك أن سياستهم لم تعرف كيف تدرك الروح الجديدة فى هذه البلدان.\n\nوهذه السياسة التى يتغنى بها \"\"اللورد كيلرن\"\" وأمثاله؛ إنما تسير على خط يتعارض تماماً مع المصالح الحيوية والحقيقية للشعب البريطانى، ولست بحاجة إلى أن أضرب المثل؛ ذلك أن الأزمة الإيرانية قد كبدت بريطانيا الكثير من الخسائر المالية والمعنوية، ولو أن هذه السياسة كانت أكثر استنارة؛ لعرفت كيف توفق بين مصالح إيران العادلة ومصالح بريطانيا المعقولة.\n\nيحذر \"\"كيلرن\"\" الشعب البريطانى من محمد نجيب وجمال عبد الناصر، ويدَّعى أننا نضمر الشر لبريطانيا! فليعلم أن المصريين جميعاً - ونحن قادة حركة الثورة من بينهم - لا نضمر شراً مطلقاً- كما يزعم \"\"كيلرن\"\"- لا لبريطانيا ولا للشعب البريطانى، ولا لغيره من الشعوب، ولكنا على العكس من ذلك قوم سئمنا ضروب الشر التى قاسينا مرارتها وآثامها، لقد هب الشعب المصرى ونحن معه للقضاء على الشر وإحلال الخير محله.\n\nإنى أود أن أوجه الخطاب إلى الشعب البريطانى نفسه، لا لأضلله - كما يفعل أمثال \"\"اللورد كيلرن\"\" - وإنما لأنى فقط أبغى الكشف عن الحقائق؛ حتى يكون على بينة من أمرها، فأتساءل: هل يقبل الشعب البريطانى - لو كان مكاننا - احتلال وطنه ضد إرادته؟ وهل كان يقتنع بأية حجة - أياً كان مظهرها - تفرض عليه دوام احتلال أجنبى لو أنهم تعرضوا له مدى سبعين عاماً، فقدمت إليهم خلالها الوعود تلو الوعود بالجلاء والانسحاب من أرض الوطن؟ ما من شك أن أى شعب ليرفض مثل هذا الأمر، حرصاً على حقه المقدس فى الحرية الكاملة.\n\nلقد تحملت بريطانيا الكثير للدفاع عن حريتها خلال الحروب الماضية، ولن تكون أقل استعداداً للبذل والتضحية؛ بل لعل طاقتنا على ذلك أكبر بعد الذى عانيناه من استعباد دام أكثر من سبعين عاماً.\n\nإننا حريصون كل الحرص على الوصول إلى تسوية سلمية، ولكننا فى نفس الوقت نصر إصراراً أكيداً على حقوقنا المستمدة من حق الشعوب الطبيعى فى الحرية والاستقلال، والمستندة إلى ميثاق الأمم المتحدة، فإذا ما تبددت آمالنا، فإننا لن نتردد - كأى شعب يشعر بكرامته وحقه المقدس فى الحرية والاستقلال - فى أن نسلك أى طريق يوصلنا إلى الحصول على حقوقنا؛ مهما كانت التضحيات التى نتحملها؛ لنفوز بالحرية، ولنخلف لأبنائنا من بعدنا أغلى ما يتمتع بلد به؛ الاستقلال والحرية.\n\nإنى أقولها كلمة قصيرة ولكنها صريحة، وفى هذا ما أنا إلا اللسان الذى يعبر عما فى نفوس المصريين جميعاً من أهداف لن يتحولوا عنها أياً كانت الأحوال والاعتبارات: يجب أن تجلو القوات الأجنبية من أراضينا جلاءً كاملاً، وبدون أى قيد أو شرط، فإذا ما أصبحت سيادتنا كاملة وحريتنا تامة؛ فإن مصر فى هذه الحالة ستعرف كيف تتصرف لدفع أى عدوان يهدد سلامتها.\"\n1953-04-09\tيسعدنى أن نكون بينكم، فعواطفكم نحونا تربط الشمال بالجنوب، وقد أردنا أن نتحد سوياً، فقالوا: إن السودان يريد تقرير مصيره، وكان ردنا عليهم أننا نترك للسودان حق تقرير المصير، فإنه واصل إلى حريته."
+}

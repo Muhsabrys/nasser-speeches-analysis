@@ -1,0 +1,476 @@
+{
+  "metadata": {
+    "title": "تصريحات وخطب البكباشي جمال عبد الناصر في الشهور الأولى للثورة (الجلاء، يوم الشهيد، ووحدة الضباط)",
+    "date": "1952-11-01 / 1952-11-15 / 1953-01-30",
+    "location": "القاهرة، مصر (جامعة القاهرة ومقار القيادة)",
+    "source": "ملف الأرشيف التاريخي 1.txt - خطب وتصريحات الثورة"
+  },
+  "dynamic_tag_definitions": [
+    {
+      "tag_name": "guerrilla_warfare_threat",
+      "definition": "Explicit rhetorical signaling and threat of asymmetrical irregular combat, urban insurgency, or guerrilla tactics against conventional occupying forces."
+    },
+    {
+      "tag_name": "asymmetric_deterrence",
+      "definition": "Invoking catastrophic mutual destruction or disproportionate retaliatory costs (such as the Samson motif) to deter imperialist stalling."
+    },
+    {
+      "tag_name": "autobiographical_legitimation",
+      "definition": "Mobilizing the speaker's personal biography, physical injuries, and past student activism to authenticate revolutionary legitimacy and solidarity."
+    },
+    {
+      "tag_name": "sacralization_of_martyrdom",
+      "definition": "Elevating fallen political actors and demonstrators to sacred, immortal benchmarks against which current political fidelity and action are measured."
+    },
+    {
+      "tag_name": "army_people_symbiosis",
+      "definition": "Discursive construction of the military not as an autonomous coercive institution, but as the direct organic vehicle and vanguard of the popular will."
+    },
+    {
+      "tag_name": "transitional_exceptionalism",
+      "definition": "Legitimizing the suspension or postponement of formal parliamentary procedures by citing systemic historical corruption and the necessity of a stabilizing interregnum."
+    }
+  ],
+  "discourse_units": [
+    {
+      "unit_id": "DU_19521101_01",
+      "text": "إننا على أتم استعداد لأن نكون معقولين، ولكن الإنجليز مثلاً قد وعدونا طيلة السبعين عاماً الماضية أن يخرجوا من منطقة قناة السويس ولم يخرجوا.",
+      "annotations": [
+        {
+          "tag": "appeal_to_reason",
+          "span": "إننا على أتم استعداد لأن نكون معقولين",
+          "explanation": "Establishes Egypt's stance as rational and diplomatically moderate prior to outlining escalatory alternatives."
+        },
+        {
+          "tag": "historical_reference",
+          "span": "طيلة السبعين عاماً الماضية",
+          "explanation": "Points to the British occupation of Egypt since 1882 to emphasize the prolonged nature of foreign hegemony."
+        },
+        {
+          "tag": "enemy_construction",
+          "span": "ولكن الإنجليز مثلاً قد وعدونا طيلة السبعين عاماً الماضية أن يخرجوا من منطقة قناة السويس ولم يخرجوا",
+          "explanation": "Presents the British empire as fundamentally deceitful and untrustworthy due to chronic unfulfilled evacuation pledges."
+        },
+        {
+          "tag": "colonial_critique",
+          "span": "أن يخرجوا من منطقة قناة السويس ولم يخرجوا",
+          "explanation": "Denounces British military presence in the Suez Canal zone as an ongoing colonial infringement on Egyptian territorial integrity."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19521101_02",
+      "text": "إن مصر لا تستطيع اليوم أن تطيق مزيداً من المماطلة والتسويف، فإذا شعرت حكومة العهد الجديد - بعد هذه الجهود المتصلة التى نبذلها - بأننا لم نصل إلى تخليص بلادنا من الاحتلال البريطانى؛ فثقوا بأن قواد الثورة سوف ينسحبون من الحكومة ليستعدوا لقيادة الشعب فى حرب ضد الإنجليز،",
+      "annotations": [
+        {
+          "tag": "crisis_framing",
+          "span": "إن مصر لا تستطيع اليوم أن تطيق مزيداً من المماطلة والتسويف",
+          "explanation": "Constructs an urgent political impasse where diplomatic procrastination is no longer tolerable."
+        },
+        {
+          "tag": "state_legitimacy_claim",
+          "span": "حكومة العهد الجديد - بعد هذه الجهود المتصلة التى نبذلها",
+          "explanation": "Affirms the diligent administrative and patriotic legitimacy of the post-July 1952 political order."
+        },
+        {
+          "tag": "heroic_self_portrayal",
+          "span": "فثقوا بأن قواد الثورة سوف ينسحبون من الحكومة ليستعدوا لقيادة الشعب فى حرب ضد الإنجليز",
+          "explanation": "Portrays the revolutionary leadership as willing to forfeit governmental power to directly lead armed popular struggle."
+        },
+        {
+          "tag": "war_framing",
+          "span": "حرب ضد الإنجليز",
+          "explanation": "Frames the potential next phase of Anglo-Egyptian engagement explicitly in terms of existential war."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19521101_03",
+      "text": "ولن تكون هذه الحرب رسمية وإنما ستكون حرباً فدائية، سوف تكون حرب عصابات.. سوف تلقى القنابل اليدوية فى جنح الظلام.. سوف يغتال الجنود الإنجليز فى الشوارع.. سوف تنتشر أعمال الفدائيين بطريقة تشعر الإنجليز أنهم يدفعون ثمناً غالياً لاحتلال بلادنا.",
+      "annotations": [
+        {
+          "tag": "guerrilla_warfare_threat",
+          "span": "ولن تكون هذه الحرب رسمية وإنما ستكون حرباً فدائية، سوف تكون حرب عصابات.. سوف تلقى القنابل اليدوية فى جنح الظلام.. سوف يغتال الجنود الإنجليز فى الشوارع.. سوف تنتشر أعمال الفدائيين",
+          "explanation": "Explicitly details operational guerrilla tactics (grenade strikes, urban assassinations, fedayeen warfare) to threaten the occupier."
+        },
+        {
+          "tag": "repetition",
+          "span": "سوف تكون... سوف تلقى... سوف يغتال... سوف تنتشر",
+          "explanation": "Uses anaphora with the future predictive particle 'سوف' to build rhetorical momentum and emphasize deterministic inevitability."
+        },
+        {
+          "tag": "resistance_narrative",
+          "span": "بطريقة تشعر الإنجليز أنهم يدفعون ثمناً غالياً لاحتلال بلادنا",
+          "explanation": "Articulates an anti-colonial strategy of raising the occupation's human and security costs beyond sustainable thresholds."
+        },
+        {
+          "tag": "anti_colonial",
+          "span": "لاحتلال بلادنا",
+          "explanation": "Categorically defines foreign presence as an illegitimate military occupation that justifies violent repulsion."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19521101_04",
+      "text": "وعلى أسوأ الحالات سيكون كفاحاً أشبه بقصة \"شمشون\" التى روتها التوراة، سوف نحطم المعبد على رؤوسنا ليصيب رؤوس أعدائنا القائمين بيننا أيضاً.",
+      "annotations": [
+        {
+          "tag": "asymmetric_deterrence",
+          "span": "وعلى أسوأ الحالات سيكون كفاحاً أشبه بقصة \"شمشون\" التى روتها التوراة، سوف نحطم المعبد على رؤوسنا ليصيب رؤوس أعدائنا القائمين بيننا أيضاً",
+          "explanation": "Adopts the Samson option metaphor to signal mutual catastrophic annihilation if national liberation is denied."
+        },
+        {
+          "tag": "mythopoesis",
+          "span": "أشبه بقصة \"شمشون\" التى روتها التوراة",
+          "explanation": "Draws on scriptural and mythological narrative tropes to amplify the epic, zero-sum nature of the looming struggle."
+        },
+        {
+          "tag": "enemy_construction",
+          "span": "أعدائنا القائمين بيننا أيضاً",
+          "explanation": "Expands the enemy category beyond British troops to include internal domestic fifth columns and collaborators."
+        },
+        {
+          "tag": "appeal_to_emotion",
+          "span": "سوف نحطم المعبد على رؤوسنا",
+          "explanation": "Evokes a visceral, uncompromising readiness for collective martyrdom."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19521115_01",
+      "text": "لقد أرسلنى الرئيس اللواء محمد نجيب لأحييكم، وأشترك معكم نيابة عنه فى إحياء ذكرى الشهداء، ونرجو أن نقرأ الفاتحة على أرواحهم.",
+      "annotations": [
+        {
+          "tag": "ceremonial_language",
+          "span": "لقد أرسلنى الرئيس اللواء محمد نجيب لأحييكم، وأشترك معكم نيابة عنه فى إحياء ذكرى الشهداء",
+          "explanation": "Opens with diplomatic and ceremonial protocol, establishing institutional delegation from the head of the movement."
+        },
+        {
+          "tag": "ritual_greeting",
+          "span": "لأحييكم",
+          "explanation": "Formulates formal salute to the assembled university student body."
+        },
+        {
+          "tag": "sacralization_of_martyrdom",
+          "span": "ونرجو أن نقرأ الفاتحة على أرواحهم",
+          "explanation": "Mobilizes Islamic funerary liturgy (Surat al-Fatiha) to sanctify the fallen students and unite the assembly in shared piety."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19521115_02",
+      "text": "لقد كان شباب الجامعة دائماً فى مقدمة الذين رفعوا علم النضال والكفاح ضد الظلم وضد الاستعمار، وقد كنت طالباً بالمدارس الثانوية أجعل خطاى تسير مع خطى الجامعة، فأصابنى فى مثل هذا اليوم من سبعة عشر عاماً، أثناء اشتراكى فى المظاهرات ضد الاحتلال، ما أصاب الكثيرين من المكافحين فى سبيل استقلال البلاد وتحريرها.",
+      "annotations": [
+        {
+          "tag": "address_to_public",
+          "span": "شباب الجامعة دائماً فى مقدمة الذين رفعوا علم النضال والكفاح ضد الظلم وضد الاستعمار",
+          "explanation": "Flatters and politically positions university students as the vanguard of the historic anti-colonial movement."
+        },
+        {
+          "tag": "autobiographical_legitimation",
+          "span": "وقد كنت طالباً بالمدارس الثانوية أجعل خطاى تسير مع خطى الجامعة، فأصابنى فى مثل هذا اليوم من سبعة عشر عاماً، أثناء اشتراكى فى المظاهرات ضد الاحتلال",
+          "explanation": "Validates the speaker's revolutionary identity by recalling his wounding during the student demonstrations of 13 November 1935."
+        },
+        {
+          "tag": "collective_memory_invocation",
+          "span": "فى مثل هذا اليوم من سبعة عشر عاماً",
+          "explanation": "Connects the current moment to the traumatic and mobilizational student uprisings of 1935 against British domination."
+        },
+        {
+          "tag": "solidarity_claim",
+          "span": "ما أصاب الكثيرين من المكافحين فى سبيل استقلال البلاد وتحريرها",
+          "explanation": "Aligns the speaker's personal suffering with the collective sacrifices of Egyptian freedom fighters."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19521115_03",
+      "text": "وقد تركت إصابتى أثراً عزيزاً لا يزال يعلو وجهى، فيذكرنى كل يوم بالواجب الوطنى الملقى على كاهلى كفرد من أبناء هذا الوطن العزيز.",
+      "annotations": [
+        {
+          "tag": "autobiographical_legitimation",
+          "span": "وقد تركت إصابتى أثراً عزيزاً لا يزال يعلو وجهى، فيذكرنى كل يوم بالواجب الوطنى الملقى على كاهلى",
+          "explanation": "Transforms a physical facial wound into a perpetual somatic emblem of national duty and revolutionary commitment."
+        },
+        {
+          "tag": "moral_authority_claim",
+          "span": "فيذكرنى كل يوم بالواجب الوطنى الملقى على كاهلى كفرد من أبناء هذا الوطن العزيز",
+          "explanation": "Asserts an unshakeable ethical mandate rooted in selfless patriotism and personal sacrifice."
+        },
+        {
+          "tag": "nationalism",
+          "span": "كفرد من أبناء هذا الوطن العزيز",
+          "explanation": "Emphasizes egalitarian citizenship and shared national belonging above military rank."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19521115_04",
+      "text": "وفى هذا اليوم وقع صريع الظلم والاحتلال المرحوم عبد المجيد مرسى؛ فأنسانى ما أنا مصاب به، ورسخ فى نفسى أن على واجباً أفنى فى سبيله، أو أكون أحد العاملين فى تحقيقه حتى يتحقق؛ وهذا الواجب هو تحرير الوطن من الاستعمار، وتحقيق سيادة الشعب. وتوالى بعد ذلك سقوط الشهداء صرعى؛ فازداد إيمانى بالعمل على تحقيق حرية مصر.",
+      "annotations": [
+        {
+          "tag": "sacralization_of_martyrdom",
+          "span": "وفى هذا اليوم وقع صريع الظلم والاحتلال المرحوم عبد المجيد مرسى؛ فأنسانى ما أنا مصاب به",
+          "explanation": "Singles out student martyr Abd al-Majid Mursi as a catalyst for revolutionary awakening that transcends individual pain."
+        },
+        {
+          "tag": "sovereignty_claim",
+          "span": "وهذا الواجب هو تحرير الوطن من الاستعمار، وتحقيق سيادة الشعب",
+          "explanation": "Couples anti-colonial liberation directly with democratic popular sovereignty ('سيادة الشعب')."
+        },
+        {
+          "tag": "resistance_narrative",
+          "span": "وتوالى بعد ذلك سقوط الشهداء صرعى؛ فازداد إيمانى بالعمل على تحقيق حرية مصر",
+          "explanation": "Frames state violence and historical martyrdom not as demoralizing defeats, but as fuel for revolutionary resolve."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19521115_05",
+      "text": "وأنا إذ أقف بينكم اليوم بعد سبعة عشر عاماً لأحيى ذكرى الشهداء؛ فإن الحق يقضى على بأن أقول: هنا وفى هذا المكان نبتت هذه الثورة، التى تهدف إلى القضاء على الاستعمار وأعوانه، وتحقيق الاستقلال التام للبلاد.",
+      "annotations": [
+        {
+          "tag": "mythopoesis",
+          "span": "هنا وفى هذا المكان نبتت هذه الثورة",
+          "explanation": "Spatially anchors the origins of the 1952 Revolution in the university campus, attributing ideological paternity to students."
+        },
+        {
+          "tag": "anti_colonial",
+          "span": "تهدف إلى القضاء على الاستعمار وأعوانه، وتحقيق الاستقلال التام للبلاد",
+          "explanation": "Clarifies the core mission of the revolution as eradicating foreign colonialism and domestic reactionary proxies."
+        },
+        {
+          "tag": "contrast_structure",
+          "span": "أقف بينكم اليوم بعد سبعة عشر عاماً",
+          "explanation": "Juxtaposes the past student activist phase in 1935 with the present revolutionary authority phase in 1952."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19521115_06",
+      "text": "وإن أقل ما يعمل لتخليد ذكرى الشهداء هو أن يقام على قاعدة هذا التمثال رمز لهؤلاء الذين بذلوا أرواحهم فداء وطنهم، أما التخليد الحقيقى لذكراهم فهو أن نحقق ما ناضلوا من أجله، وضحوا فى سبيله بأرواحهم، وإنى أعاهدكم فى هذا المكان أن نعمل مخلصين على ذلك.",
+      "annotations": [
+        {
+          "tag": "contrast_structure",
+          "span": "أما التخليد الحقيقى لذكراهم فهو أن نحقق ما ناضلوا من أجله، وضحوا فى سبيله بأرواحهم",
+          "explanation": "Contrasts passive, material memorialization (the statue) with active, political realization of martyrs' goals."
+        },
+        {
+          "tag": "call_to_action",
+          "span": "وإنى أعاهدكم فى هذا المكان أن نعمل مخلصين على ذلك",
+          "explanation": "Undertakes a solemn public covenant with the university audience to pursue revolutionary objectives faithfully."
+        },
+        {
+          "tag": "sacralization_of_martyrdom",
+          "span": "الذين بذلوا أرواحهم فداء وطنهم",
+          "explanation": "Employs sacrificial vocabulary portraying death in the national struggle as the highest altruistic offering."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19521115_07",
+      "text": "وإنى لا أود أن أغادر هذا المكان قبل أن أقول لكم: إن حركة الجيش ما قامت إلا لتحرير الوطن، وإعادة الحياة الدستورية السليمة للبلاد، وإن كل هدفنا هو أن نوفر للشعب حرية كاملة لا يمكن سلبها.",
+      "annotations": [
+        {
+          "tag": "military_legitimacy",
+          "span": "إن حركة الجيش ما قامت إلا لتحرير الوطن، وإعادة الحياة الدستورية السليمة للبلاد",
+          "explanation": "Legitimizes the military coup/movement by framing its sole rationale as national liberation and constitutional restoration."
+        },
+        {
+          "tag": "legal_authority_reference",
+          "span": "إعادة الحياة الدستورية السليمة للبلاد",
+          "explanation": "Assures the educated elite of the intent to return to healthy, uncorrupted constitutional legality."
+        },
+        {
+          "tag": "future_vision",
+          "span": "نوفر للشعب حرية كاملة لا يمكن سلبها",
+          "explanation": "Projects an ideal future state founded upon inalienable civil and political freedom for the Egyptian people."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19521115_08",
+      "text": "وإن ما يدعو إلى اطمئنان الجميع أن يقود الأمة فى هذه الفترة التاريخية الفاصلة محمد نجيب، وهو رجل من الشعب لا يعيش إلا من أجل الشعب، ويحس بإحساس الشعب، ويتألم لآلام الشعب، عاهد الله أن يهب نفسه للبلاد؛ حتى يحقق لها ما تصبو إليه من حرية واستقلال.",
+      "annotations": [
+        {
+          "tag": "repetition",
+          "span": "رجل من الشعب لا يعيش إلا من أجل الشعب، ويحس بإحساس الشعب، ويتألم لآلام الشعب",
+          "explanation": "Uses epistrophe and intense rhythmic repetition of 'الشعب' (the people) to construct charismatic, populist intimacy."
+        },
+        {
+          "tag": "heroic_self_portrayal",
+          "span": "عاهد الله أن يهب نفسه للبلاد؛ حتى يحقق لها ما تصبو إليه من حرية واستقلال",
+          "explanation": "Elevates General Muhammad Naguib to an ascetic patriot bound by a divine pact for national emancipation."
+        },
+        {
+          "tag": "crisis_framing",
+          "span": "فى هذه الفترة التاريخية الفاصلة",
+          "explanation": "Characterizes the political present as an existential, watershed turning point requiring unified trust."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19521115_09",
+      "text": "وأنتهز هذه الفرصة لأبلغكم أن الرئيس قد كلف الدكتور مورو بأن يبقى مديراً للجامعة؛ أباً كريماً ووطنياً مخلصاً. لقد حمل أبناء هذه الجامعة دائما مشعل الحرية، وسيظلون - بإذن الله - يحملون هذا المشعل، وإن أملنا فيكم لعظيم، وما الجيش إلا جزء منكم، فلنتعاون جميعاً حتى نحقق للوطن ما استشهد فى سبيله هؤلاء الأبرار. والله ولى التوفيق.",
+      "annotations": [
+        {
+          "tag": "state_power_justification",
+          "span": "أن الرئيس قد كلف الدكتور مورو بأن يبقى مديراً للجامعة؛ أباً كريماً ووطنياً مخلصاً",
+          "explanation": "Communicates executive executive decisions regarding university rectorate, soothing academic anxieties through familial metaphors."
+        },
+        {
+          "tag": "metaphor",
+          "span": "مشعل الحرية",
+          "explanation": "Employs the classical Enlightenment metaphor of holding high the 'torch of freedom'."
+        },
+        {
+          "tag": "army_people_symbiosis",
+          "span": "وما الجيش إلا جزء منكم، فلنتعاون جميعاً",
+          "explanation": "Eliminates civil-military dichotomy by defining the army as an organic, indivisible constituent of the citizenry."
+        },
+        {
+          "tag": "unity_call",
+          "span": "فلنتعاون جميعاً حتى نحقق للوطن ما استشهد فى سبيله هؤلاء الأبرار",
+          "explanation": "Calls for solidarity between military ranks and university intelligentsia under the covenant of fallen martyrs."
+        },
+        {
+          "tag": "ceremonial_language",
+          "span": "والله ولى التوفيق",
+          "explanation": "Traditional pious closing invocation seeking divine assistance."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530130_01",
+      "text": "إن رحيل القوات البريطانية عن مصر شرط لا يمكن بغيره أن تقوم علاقات طيبة بين مصر وبريطانيا.",
+      "annotations": [
+        {
+          "tag": "foreign_policy_statement",
+          "span": "إن رحيل القوات البريطانية عن مصر شرط لا يمكن بغيره أن تقوم علاقات طيبة بين مصر وبريطانيا",
+          "explanation": "Lays down an unambiguous diplomatic ultimatum regarding normalization of bilateral relations with London."
+        },
+        {
+          "tag": "sovereignty_claim",
+          "span": "رحيل القوات البريطانية عن مصر شرط",
+          "explanation": "Affirms complete military evacuation (Gala') as the non-negotiable cornerstone of Egyptian state sovereignty."
+        },
+        {
+          "tag": "anti_imperialism",
+          "span": "رحيل القوات البريطانية عن مصر",
+          "explanation": "Reiterates categorical anti-imperialist rejection of British military bases on Egyptian soil."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530130_02",
+      "text": "إنه من الظاهر أنه لا يمكن عقلاً أن تبنى الصداقة على أساس من الريبة يولد الحقد والبغضاء.",
+      "annotations": [
+        {
+          "tag": "appeal_to_reason",
+          "span": "إنه من الظاهر أنه لا يمكن عقلاً أن تبنى الصداقة على أساس من الريبة يولد الحقد والبغضاء",
+          "explanation": "Appeals to common-sense logic regarding interstate relations, arguing that structural mistrust precludes genuine alliance."
+        },
+        {
+          "tag": "contrast_structure",
+          "span": "تبنى الصداقة على أساس من الريبة يولد الحقد والبغضاء",
+          "explanation": "Contrasts the ideal of diplomatic friendship with the psychological reality of suspicion and resentment produced by coercion."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530130_03",
+      "text": "إن السياسة الإنجليزية لا تزال تنتهج بعض الأساليب البالية، وقد جعلت هذه الأساليب أساساً لسياستها خلال السنوات السبع الأخيرة؛ مما أدى إلى توليد الكراهية والريبة فى نفوس المصريين.",
+      "annotations": [
+        {
+          "tag": "colonial_critique",
+          "span": "إن السياسة الإنجليزية لا تزال تنتهج بعض الأساليب البالية",
+          "explanation": "Criticizes British diplomacy as archaic, outdated, and out of touch with postwar anti-colonial realities."
+        },
+        {
+          "tag": "historical_reference",
+          "span": "خلال السنوات السبع الأخيرة",
+          "explanation": "References the post-World War II phase (1945–1952) of failed bilateral negotiations and treaty revisions."
+        },
+        {
+          "tag": "problem_definition",
+          "span": "مما أدى إلى توليد الكراهية والريبة فى نفوس المصريين",
+          "explanation": "Identifies imperial stubbornness as the direct structural cause of widespread anti-British hostility among Egyptian masses."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530130_04",
+      "text": "إن ضباط الثورة كافحوا الطغيان والاستبداد بكل أشكالهما، وقد صهرتهم المقاومة ثم دمجتهم فى كتلة واحدة لها نفس الأهداف والميول، وهدفهم الرئيسى أن يروا وطنهم وقد فاز باستقلاله التام، الخالى من كل أثر من آثار الاحتلال الأجنبى، وأمنيتهم هى أن يروا مواطنيهم يعيشون عيشة كريمة وهم يتمتعون بالحرية والمساواة، ولكل منهم مكانته واختصاصاته، كما أن أمنية هؤلاء الضباط هى أن يبلغ مستوى الحياة فى مصر درجة عالية.",
+      "annotations": [
+        {
+          "tag": "military_legitimacy",
+          "span": "إن ضباط الثورة كافحوا الطغيان والاستبداد بكل أشكالهما",
+          "explanation": "Frames the officer corps as an intrinsically anti-tyrannical vanguard fighting domestic despotism and foreign control."
+        },
+        {
+          "tag": "metaphor",
+          "span": "صهرتهم المقاومة ثم دمجتهم فى كتلة واحدة لها نفس الأهداف والميول",
+          "explanation": "Employs metallurgical metaphor of smelting ('صهرتهم') to convey monolithic ideological unity and cohesion."
+        },
+        {
+          "tag": "modernization_discourse",
+          "span": "يعيشون عيشة كريمة وهم يتمتعون بالحرية والمساواة، ولكل منهم مكانته واختصاصاته، كما أن أمنية هؤلاء الضباط هى أن يبلغ مستوى الحياة فى مصر درجة عالية",
+          "explanation": "Outlines a modernizing socioeconomic vision centered on human dignity, social equality, rational division of labor, and living standards."
+        },
+        {
+          "tag": "socialism",
+          "span": "يعيشون عيشة كريمة وهم يتمتعون بالحرية والمساواة",
+          "explanation": "Early rhetorical articulation of egalitarian social justice that would mature into Arab Socialism."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530130_05",
+      "text": "-(سؤال من أحد الصحفيين): هل هناك نزاعات مختلفة بين الضباط؟\n\n*جمال عبد الناصر: لا يمكن أن يقال أن اختلاف الآراء يدل على اختلاف النزعات، فالجميع متفقون على قيام نظام ديمقراطى دستورى سليم، ولكن الفساد انتشر فى البلاد فى النواحى السياسية والاقتصادية والاجتماعية فى السنوات الأخيرة، ولطخ سمعتها فى الخارج، فأصبح من الضرورى إيجاد فترة انتقال واستقرار مؤقتة؛ لخلق الجو المناسب لإعادة الحياة الدستورية والبرلمانية على وجهها الصحيح؛ لأن ذلك هو الذى يحقق المطالب الحقة للبلاد.",
+      "annotations": [
+        {
+          "tag": "contrast_structure",
+          "span": "لا يمكن أن يقال أن اختلاف الآراء يدل على اختلاف النزعات، فالجميع متفقون على قيام نظام ديمقراطى دستورى سليم",
+          "explanation": "Differentiates between healthy pluralism of tactical opinions and fundamental ideological unity regarding constitutional democracy."
+        },
+        {
+          "tag": "transitional_exceptionalism",
+          "span": "ولكن الفساد انتشر فى البلاد فى النواحى السياسية والاقتصادية والاجتماعية فى السنوات الأخيرة، ولطخ سمعتها فى الخارج، فأصبح من الضرورى إيجاد فترة انتقال واستقرار مؤقتة؛ لخلق الجو المناسب لإعادة الحياة الدستورية والبرلمانية على وجهها الصحيح",
+          "explanation": "Discursively justifies the postponement of parliamentary elections by defining an extraordinary interim period to purge systemic corruption."
+        },
+        {
+          "tag": "state_power_justification",
+          "span": "إيجاد فترة انتقال واستقرار مؤقتة؛ لخلق الجو المناسب لإعادة الحياة الدستورية",
+          "explanation": "Rationalizes military executive rule during the three-year transition period announced in early 1953."
+        },
+        {
+          "tag": "problem_definition",
+          "span": "الفساد انتشر فى البلاد فى النواحى السياسية والاقتصادية والاجتماعية فى السنوات الأخيرة، ولطخ سمعتها فى الخارج",
+          "explanation": "Diagnoses multifaceted pre-revolutionary corruption as having compromised the state's international standing and social fabric."
+        }
+      ]
+    },
+    {
+      "unit_id": "DU_19530130_06",
+      "text": "إن الجيش على اتصال وثيق بالشعب ومتفق معه فى الأهداف، وإن أمانى الشعب تجمعت فى حركة الجيش، فراح الجيش يوجهها بطريقة مُرضية، وهذا هو سر قوة الاتحاد القائم بين الجيش والشعب.",
+      "annotations": [
+        {
+          "tag": "army_people_symbiosis",
+          "span": "إن الجيش على اتصال وثيق بالشعب ومتفق معه فى الأهداف، وإن أمانى الشعب تجمعت فى حركة الجيش، فراح الجيش يوجهها بطريقة مُرضية، وهذا هو سر قوة الاتحاد القائم بين الجيش والشعب",
+          "explanation": "Constructs an ideological model of organic corporatism where the army serves as the institutional crystallization of the people's collective consciousness."
+        },
+        {
+          "tag": "state_legitimacy_claim",
+          "span": "وهذا هو سر قوة الاتحاد القائم بين الجيش والشعب",
+          "explanation": "Derives the supreme political legitimacy of the new regime from the unbreakable unity of the armed forces and the popular classes."
+        },
+        {
+          "tag": "collective_identity",
+          "span": "الاتحاد القائم بين الجيش والشعب",
+          "explanation": "Synthesizes the military establishment and the masses into a unitary, singular political subject."
+        }
+      ]
+    }
+  ],
+  "full_speech_text": "date\tspeech\n1952-11-01\t\"إننا على أتم استعداد لأن نكون معقولين، ولكن الإنجليز مثلاً قد وعدونا طيلة السبعين عاماً الماضية أن يخرجوا من منطقة قناة السويس ولم يخرجوا. إن مصر لا تستطيع اليوم أن تطيق مزيداً من المماطلة والتسويف، فإذا شعرت حكومة العهد الجديد - بعد هذه الجهود المتصلة التى نبذلها - بأننا لم نصل إلى تخليص بلادنا من الاحتلال البريطانى؛ فثقوا بأن قواد الثورة سوف ينسحبون من الحكومة ليستعدوا لقيادة الشعب فى حرب ضد الإنجليز، ولن تكون هذه الحرب رسمية وإنما ستكون حرباً فدائية، سوف تكون حرب عصابات.. سوف تلقى القنابل اليدوية فى جنح الظلام.. سوف يغتال الجنود الإنجليز فى الشوارع.. سوف تنتشر أعمال الفدائيين بطريقة تشعر الإنجليز أنهم يدفعون ثمناً غالياً لاحتلال بلادنا.\n\nوعلى أسوأ الحالات سيكون كفاحاً أشبه بقصة \"\"شمشون\"\" التى روتها التوراة، سوف نحطم المعبد على رؤوسنا ليصيب رؤوس أعدائنا القائمين بيننا أيضاً.\"\n1952-11-15\t\"لقد أرسلنى الرئيس اللواء محمد نجيب لأحييكم، وأشترك معكم نيابة عنه فى إحياء ذكرى الشهداء، ونرجو أن نقرأ الفاتحة على أرواحهم.\n\nلقد كان شباب الجامعة دائماً فى مقدمة الذين رفعوا علم النضال والكفاح ضد الظلم وضد الاستعمار، وقد كنت طالباً بالمدارس الثانوية أجعل خطاى تسير مع خطى الجامعة، فأصابنى فى مثل هذا اليوم من سبعة عشر عاماً، أثناء اشتراكى فى المظاهرات ضد الاحتلال، ما أصاب الكثيرين من المكافحين فى سبيل استقلال البلاد وتحريرها.\n\nوقد تركت إصابتى أثراً عزيزاً لا يزال يعلو وجهى، فيذكرنى كل يوم بالواجب الوطنى الملقى على كاهلى كفرد من أبناء هذا الوطن العزيز.\n\nوفى هذا اليوم وقع صريع الظلم والاحتلال المرحوم عبد المجيد مرسى؛ فأنسانى ما أنا مصاب به، ورسخ فى نفسى أن على واجباً أفنى فى سبيله، أو أكون أحد العاملين فى تحقيقه حتى يتحقق؛ وهذا الواجب هو تحرير الوطن من الاستعمار، وتحقيق سيادة الشعب. وتوالى بعد ذلك سقوط الشهداء صرعى؛ فازداد إيمانى بالعمل على تحقيق حرية مصر.\n\nوأنا إذ أقف بينكم اليوم بعد سبعة عشر عاماً لأحيى ذكرى الشهداء؛ فإن الحق يقضى على بأن أقول: هنا وفى هذا المكان نبتت هذه الثورة، التى تهدف إلى القضاء على الاستعمار وأعوانه، وتحقيق الاستقلال التام للبلاد. وإن أقل ما يعمل لتخليد ذكرى الشهداء هو أن يقام على قاعدة هذا التمثال رمز لهؤلاء الذين بذلوا أرواحهم فداء وطنهم، أما التخليد الحقيقى لذكراهم فهو أن نحقق ما ناضلوا من أجله، وضحوا فى سبيله بأرواحهم، وإنى أعاهدكم فى هذا المكان أن نعمل مخلصين على ذلك.\n\nوإنى لا أود أن أغادر هذا المكان قبل أن أقول لكم: إن حركة الجيش ما قامت إلا لتحرير الوطن، وإعادة الحياة الدستورية السليمة للبلاد، وإن كل هدفنا هو أن نوفر للشعب حرية كاملة لا يمكن سلبها. وإن ما يدعو إلى اطمئنان الجميع أن يقود الأمة فى هذه الفترة التاريخية الفاصلة محمد نجيب، وهو رجل من الشعب لا يعيش إلا من أجل الشعب، ويحس بإحساس الشعب، ويتألم لآلام الشعب، عاهد الله أن يهب نفسه للبلاد؛ حتى يحقق لها ما تصبو إليه من حرية واستقلال.\n\nوأنتهز هذه الفرصة لأبلغكم أن الرئيس قد كلف الدكتور مورو بأن يبقى مديراً للجامعة؛ أباً كريماً ووطنياً مخلصاً. لقد حمل أبناء هذه الجامعة دائما مشعل الحرية، وسيظلون - بإذن الله - يحملون هذا المشعل، وإن أملنا فيكم لعظيم، وما الجيش إلا جزء منكم، فلنتعاون جميعاً حتى نحقق للوطن ما استشهد فى سبيله هؤلاء الأبرار. والله ولى التوفيق.\"\n1953-01-30\t\"إن رحيل القوات البريطانية عن مصر شرط لا يمكن بغيره أن تقوم علاقات طيبة بين مصر وبريطانيا.\n\nإنه من الظاهر أنه لا يمكن عقلاً أن تبنى الصداقة على أساس من الريبة يولد الحقد والبغضاء.\n\nإن السياسة الإنجليزية لا تزال تنتهج بعض الأساليب البالية، وقد جعلت هذه الأساليب أساساً لسياستها خلال السنوات السبع الأخيرة؛ مما أدى إلى توليد الكراهية والريبة فى نفوس المصريين.\n\nإن ضباط الثورة كافحوا الطغيان والاستبداد بكل أشكالهما، وقد صهرتهم المقاومة ثم دمجتهم فى كتلة واحدة لها نفس الأهداف والميول، وهدفهم الرئيسى أن يروا وطنهم وقد فاز باستقلاله التام، الخالى من كل أثر من آثار الاحتلال الأجنبى، وأمنيتهم هى أن يروا مواطنيهم يعيشون عيشة كريمة وهم يتمتعون بالحرية والمساواة، ولكل منهم مكانته واختصاصاته، كما أن أمنية هؤلاء الضباط هى أن يبلغ مستوى الحياة فى مصر درجة عالية.\n\n-(سؤال من أحد الصحفيين): هل هناك نزاعات مختلفة بين الضباط؟\n\n*جمال عبد الناصر: لا يمكن أن يقال أن اختلاف الآراء يدل على اختلاف النزعات، فالجميع متفقون على قيام نظام ديمقراطى دستورى سليم، ولكن الفساد انتشر فى البلاد فى النواحى السياسية والاقتصادية والاجتماعية فى السنوات الأخيرة، ولطخ سمعتها فى الخارج، فأصبح من الضرورى إيجاد فترة انتقال واستقرار مؤقتة؛ لخلق الجو المناسب لإعادة الحياة الدستورية والبرلمانية على وجهها الصحيح؛ لأن ذلك هو الذى يحقق المطالب الحقة للبلاد.\n\nإن الجيش على اتصال وثيق بالشعب ومتفق معه فى الأهداف، وإن أمانى الشعب تجمعت فى حركة الجيش، فراح الجيش يوجهها بطريقة مُرضية، وهذا هو سر قوة الاتحاد القائم بين الجيش والشعب.\""
+}
